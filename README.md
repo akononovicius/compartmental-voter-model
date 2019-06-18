@@ -18,7 +18,7 @@ appropriately is referenced.
 
 ## References
 
-[1] A. Kononovicius. *Compartmental voter model*.
+1. A. Kononovicius. *Compartmental voter model*.
 [arXiv: 1906.01842 [physics.soc-ph]](https://arxiv.org/abs/1906.01842).
-[2] P. Clifford, A. Sudbury. *A model for spatial conflict*. Biometrika **60**:
+2. P. Clifford, A. Sudbury. *A model for spatial conflict*. Biometrika **60**:
 581-588 (1973). doi: [10.1093/biomet/60.3.581](https://dx.doi.org/10.1093/biomet/60.3.581).
